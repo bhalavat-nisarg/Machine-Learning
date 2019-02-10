@@ -48,3 +48,34 @@
 10.	ghdLAB (Global Health Delivery Lab): In the world, for the world, Anjali Sastry, MIT Sloan: 5:17 https://www.youtube.com/watch?v=WiaDcQ1pLDs
 11.	Entrepreneurship 101: Who is your customer? Bill Aulet, MIT Sloan
 12.	6 weeks, 4 hours per week https://edge.edx.org/courses/course-v1:MITx+15.390.1x+4T2016/info
+
+## Data Sets:
+1.	https://github.com/openimages/dataset
+2.	https://data.gov.in/
+3.	http://data.worldbank.org/country/india
+4.	http://deeplearning.net/datasets/
+5.	https://www.cs.toronto.edu/~kriz/cifar.html
+6.	http://yann.lecun.com/exdb/mnist/
+7.	http://authors.library.caltech.edu/7694/
+ 
+
+## Developer Resources for Computing for Clubs
+1.	AWS ML
+2.	Azure ML
+3.	Tensorflow
+
+## Book: 
+1. http://www.deeplearningbook.org/
+
+## After courses :
+Go to these places to apply your skills
+1.	Data science challenges to improve skills - www.kaggle.com
+2.	https://www.drivendata.org/(kaggle equivalent for social good)
+3.	http://datalook.io/- (Some really nice project ideas like adopt-a-pet. Can be a great source for ideas)
+4.	www.datakind.org
+5.	BM ML challenges for social good - https://ibmhadoop.devpost.com/
+6.	TensorFlow experiments, libraries, and projects -https://github.com/jtoy/awesome-tensorflow
+7.	https://www.tensorflow.org
+8.	Curated list of Machine Learning frameworks, libraries and software (by language): https://github.com/josephmisiti/awesome-machine-learning-
+9.	Deep Learning Papers Reading Roadmap: https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+10.	Deep Learning Papers: https://github.com/sbrugman/deep-learning-papers/blob/master/README.md
