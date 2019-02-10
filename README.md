@@ -25,3 +25,26 @@
 2.	https://www.youtube.com/watch?v=CLDisFuDnog
 3.	https://www.youtube.com/watch?v=n1ViNeWhC24
 4.	https://www.youtube.com/watch?v=LFDU2GX4AqM
+
+## Other Courses:
+1.	Bay Area DL School -- http://www.bayareadlschool.org/
+2.	Summer School Montreal -- http://videolectures.net/deeplearning2016_montreal/
+3.	Larochelle -- https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6 NAPrNmUBH
+4.	Hinton's Coursera -- https://www.coursera.org/learn/neural-networks
+5.	de Frietas Oxford -- https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+6.	Stanford NLP -- http://cs224d.stanford.edu/
+
+## Other Videos:
+
+1.	Extreme Computational Imaging (DARPA "Wait, What?"), Ramesh Raskar, MIT Media Lab: 25:35 https://www.youtube.com/watch?v=ZTRWjSIqARk
+2.	CPEU3 - Big Data, Sandy Pentland, MIT Media Lab: 53:48 https://www.youtube.com/watch?v=imyddrY4nEg
+3.	#HBRLive: The Internet of Things, Privacy, and The New Deal on Data, Sandy Pentland,MIT Media Lab: 31:55 https://www.youtube.com/watch?v=omC_2F3Q0Hg
+4.	Brilliant designs to fit more people in every city, Kent Larson, MIT Media Lab:16:41 https://www.ted.com/talks/kent_larson_brilliant_designs_to_fit_more_people_in_every_ci ty?language=en
+5.	Eric Ries: "The Lean Startup" | Talks at Google: 58:08 https://www.youtube.com/watch?v=fEvKo90qBns
+6.	Lean Canvas Course, Ash Maurya: 13:04 https://www.youtube.com/watch?v=ojqrWB8xHfw
+7.	Innovating for a Sustainable World, Jason Jay, MIT Sloan 2015: 1:00:01 http://mitsloan.mit.edu/sustainability/video/innovating-for-a-sustainable-world-reunion-we ekend-2015
+8.	Using Improvisation to Develop Leadership, Daena Giardella, MIT Sloan: 3:30 https://www.youtube.com/watch?v=-KfuzO6t998
+9.	Upside: Anything is Possible, with Pashon Murray, MIT Media Lab Director’s Fellow:1:00 https://www.youtube.com/watch?v=jAN61QK0aUI
+10.	ghdLAB (Global Health Delivery Lab): In the world, for the world, Anjali Sastry, MIT Sloan: 5:17 https://www.youtube.com/watch?v=WiaDcQ1pLDs
+11.	Entrepreneurship 101: Who is your customer? Bill Aulet, MIT Sloan
+12.	6 weeks, 4 hours per week https://edge.edx.org/courses/course-v1:MITx+15.390.1x+4T2016/info
