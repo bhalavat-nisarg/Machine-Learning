@@ -70,7 +70,7 @@
 ## After courses :
 Go to these places to apply your skills
 1.	Data science challenges to improve skills - www.kaggle.com
-2.	https://www.drivendata.org/(kaggle equivalent for social good)
+2.	https://www.drivendata.org/ (kaggle equivalent for social good)
 3.	http://datalook.io/- (Some really nice project ideas like adopt-a-pet. Can be a great source for ideas)
 4.	www.datakind.org
 5.	BM ML challenges for social good - https://ibmhadoop.devpost.com/
